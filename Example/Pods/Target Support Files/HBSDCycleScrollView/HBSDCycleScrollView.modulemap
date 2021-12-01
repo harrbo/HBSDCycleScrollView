@@ -1,0 +1,6 @@
+framework module HBSDCycleScrollView {
+  umbrella header "HBSDCycleScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}

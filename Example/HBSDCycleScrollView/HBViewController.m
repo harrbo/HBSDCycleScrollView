@@ -7,6 +7,7 @@
 //
 
 #import "HBViewController.h"
+#import "SDCycleScrollView.h"
 
 @interface HBViewController ()
 
@@ -17,6 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor colorWithRed:123.0 green:100.0 blue:56.0 alpha:1];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

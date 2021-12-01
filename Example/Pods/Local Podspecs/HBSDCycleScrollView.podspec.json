@@ -1,0 +1,27 @@
+{
+  "name": "HBSDCycleScrollView",
+  "version": "0.1.0",
+  "summary": "A short description of HBSDCycleScrollView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/imbaohaibo.com/HBSDCycleScrollView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "imbaohaibo.com": "imbaohaibo@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/imbaohaibo.com/HBSDCycleScrollView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HBSDCycleScrollView/Classes/**/*",
+  "dependencies": {
+    "SDWebImage": [
+      ">= 5.0.0"
+    ]
+  }
+}
